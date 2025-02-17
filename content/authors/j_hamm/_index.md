@@ -1,42 +1,47 @@
 ---
 # Display name
-title: Jamie Verwey
+title: Julie Hamm
 
 # Full name (for SEO)
-first_name: Jamie 
-last_name: Verwey
+first_name: Julie  
+last_name: Hamm
 
 # Username (this should match the folder name)
 authors:
-  - Jamie Verwey
+  - j_hamm
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate in Technology Acceptance of radiological AI
+role: PhD Candidate in Surgical Oncology
+
 
 # Organizations/Affiliations
 organizations:
-  - name: Erasmus University Rotterdam
-    url: ''
+  - name: Erasmus University Medical Center Rotterdam
+    url: 'https://www.erasmusmc.nl/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research investigates the factors, values and actors that affect the acceptance of radiological AI.
+bio: The topic of my research is lung nodules and peritoneal metastases of patients with colorectal cancer. We aim to develop a deep-learning model that can predict the prognosis of lung nodules in patients with colorectal cancer
 
 interests:
-  - Artificial Intelligence
-  - Valueable AI
-  - Acceptance
+  - Colorectal cancer
+  - Peritoneal metastases
+  - Long nodules
+
 
 education:
   courses:
-    - course: PhD in the Technology acceptance of Artificial Intelligence
-      institution: Erasmus University Rotterdam
-      year: 2024
-    - course: MSc in Health Economics and Management 
-      institution: Universita di Bologna, Erasmus University Rotterdam, MCI Innsbruck, Universitetet i Oslo
-      year: 2023
+    - course: PhD in Surgical Oncology
+      Institution: Erasmus University Medical Center, Rotterdam
+      Start: 2023
+
+    - course: MSc Medicine (MD)
+      Institution: Erasmus University Rotterdam
+      Year: 2023
+   
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,13 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:verwey@eshpm.eur.nl'
+    link: 'mailto:j.hamm@erasmusmc.nl'
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/jamie-verwey-545482169/ 
-  - icon: orcid
+    link: https://linkedin.com/in/julie-hamm-a6429120b
+  - icon: ORCID
     icon_pack: fab
-    link: https://orcid.org/0009-0004-7405-0235
+    link: https://orcid.org/0009-0005-8655-3275 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +71,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-
-Jamie Verwey is a PhD Candidate in the field of technology acceptance. Aiming to create and understanding of the involved stakeholders and values that affect tehnology acceptance to enhance the wider uptake of radiological AI in clincal practice. 
+The topic of my research is lung nodules and peritoneal metastases of patients with colorectal cancer. We aim to develop a deep-learning model that can predict the prognosis of lung nodules in patients with colorectal cancer
